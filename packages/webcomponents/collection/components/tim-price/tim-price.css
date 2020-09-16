@@ -1,0 +1,21 @@
+.tim-price {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  color: #0026d9;
+}
+.tim-price__text {
+  margin: 0;
+}
+.tim-price__info {
+  display: flex;
+  flex-flow: column;
+  padding-top: 3px;
+  padding-left: 3px;
+}
+.tim-price__info__text {
+  margin: 0;
+}
+.tim-price__info__text:first-of-type {
+  padding-bottom: 3px;
+}

@@ -1,0 +1,1 @@
+module.exports = {"name":"sucess","category":"small","content":"<svg viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><path d=\"M19 7l-9.172 9L5 10.79\" stroke=\"#6DD400\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"}

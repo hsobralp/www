@@ -1,0 +1,40 @@
+@font-face {
+	font-family: TIM Sans;
+	src: url(./files/TIMSansWeb-Light.eot);
+	src: url(./files/TIMSansWeb-Light.eot?#iefix) format("embedded-opentype"),
+		url(./files/TIMSansWeb-Light.woff2) format("woff2"),
+		url(./files/TIMSansWeb-Light.woff) format("woff"),
+		url(./files/TIMSansWeb-Light.svg#TIMSans-Regular) format("svg");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: TIM Sans;
+	src: url(./files/TIMSansWeb-Regular.eot);
+	src: url(./files/TIMSansWeb-Regular.eot?#iefix) format("embedded-opentype"),
+		url(./files/TIMSansWeb-Regular.woff2) format("woff2"),
+		url(./files/TIMSansWeb-Regular.woff) format("woff"),
+		url(./files/TIMSansWeb-Regular.svg#TIMSans-Regular) format("svg");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: TIM Sans;
+	src: url(./files/TIMSansWeb-Bold.eot);
+	src: url(./files/TIMSansWeb-Bold.eot?#iefix) format("embedded-opentype"),
+		url(./files/TIMSansWeb-Bold.woff2) format("woff2"),
+		url(./files/TIMSansWeb-Bold.woff) format("woff"),
+		url(./files/TIMSansWeb-Bold.svg#svgFontName) format("svg");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: TIM Sans;
+	src: url(./files/TIMSansWeb-Heavy.eot);
+	src: url(./files/TIMSansWeb-Heavy.eot?#iefix) format("embedded-opentype"),
+		url(./files/TIMSansWeb-Heavy.woff2) format("woff2"),
+		url(./files/TIMSansWeb-Heavy.woff) format("woff"),
+		url(./files/TIMSansWeb-Heavy.svg#svgFontName) format("svg");
+	font-weight: 800;
+	font-style: normal;
+}

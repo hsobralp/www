@@ -1,0 +1,15 @@
+{
+  "entries": [
+    "./components/tim-card/tim-card.js",
+    "./components/tim-input/tim-input.js",
+    "./components/tim-offer-card/tim-offer-card.js",
+    "./components/tim-price/tim-price.js"
+  ],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "1.17.3",
+    "typescriptVersion": "3.9.7"
+  },
+  "collections": [],
+  "bundles": []
+}

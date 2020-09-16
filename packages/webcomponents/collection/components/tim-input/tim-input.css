@@ -1,0 +1,19 @@
+.tim-input {
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  position: relative;
+  border-bottom: 1px solid #3152ef;
+}
+.tim-input__field {
+  border: 0;
+  line-height: 1;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-left: 0;
+  padding-right: 0;
+  width: 100%;
+}
+.tim-input__field-icon {
+  padding-left: calc(24px + 1rem);
+}
